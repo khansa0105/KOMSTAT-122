@@ -1,3 +1,6 @@
 nama <- c("Ani", "Budi", "Caca")
 nilai <- c(80, 75, 79)
 df_nilai <- data.frame(nama, nilai)
+
+a <- rnorm(100)
+hist(a)
